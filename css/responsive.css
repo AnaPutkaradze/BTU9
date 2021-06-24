@@ -14,7 +14,7 @@
 }
 @media (max-width: 1000px) {
 	
-    .follow-f {
+    .follow-second {
         display: none;
     }
 }
@@ -29,7 +29,7 @@
         text-align: center;
         justify-content: center;
 	}
-    .contact-info-f {
+    .contact-info-second {
         text-align: center;
         justify-content: center;
         margin-top: 10px;
@@ -37,7 +37,7 @@
         padding-right: 10px;
     }
 
-    .footer-1 {
+    .footer-seond {
         flex-direction: column;
     }
 }
