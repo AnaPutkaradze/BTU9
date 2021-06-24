@@ -1,0 +1,43 @@
+@media (max-width: 1000px) {
+	.contact-info {
+		display: none;
+	}
+
+	.burger-bar {
+		display: block;
+	}
+}
+@media (max-width: 768px) {
+	.navigation {
+		display: none;
+	}
+}
+@media (max-width: 1000px) {
+	
+    .follow-f {
+        display: none;
+    }
+}
+
+
+@media (max-width: 700px ) {
+    .box {
+        justify-content: space-around;
+    }
+	.footer-nav {
+		flex-direction: column;
+        text-align: center;
+        justify-content: center;
+	}
+    .contact-info-f {
+        text-align: center;
+        justify-content: center;
+        margin-top: 10px;
+        margin-left: 40px;
+        padding-right: 10px;
+    }
+
+    .footer-1 {
+        flex-direction: column;
+    }
+}
